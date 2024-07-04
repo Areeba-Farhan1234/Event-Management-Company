@@ -163,7 +163,7 @@ section h2 {
 }
 
 .service-icon:hover {
-  color: #f668c9;
+  color:  #70d6ff;
 }
 
 .card:hover {
@@ -237,7 +237,7 @@ section h2 {
 
 /* Gallery */
 
-#gallery .gallery {
+#gallery .gallerys {
   color: #282828;
   font-weight: 600;
   text-transform: uppercase;
@@ -319,5 +319,5 @@ footer {
   background-color: #333;
   color: white;
   text-align: center;
-  padding: 20px 0;
+  padding: 20px 0 1px 0;
 }
