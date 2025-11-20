@@ -16,11 +16,7 @@ Event-Management-Company/
 ├─ index.html
 ├─ style.css
 ├─ img/ # Event, gallery, and testimonial images
-├─ js/ (optional)
-└─ README.md
-
-pgsql
-Copy code
+├─ js/
 
 ## Deployment
 
